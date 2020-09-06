@@ -19,7 +19,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmohamed&layout=compact&hide=html" alt="mmohamed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmohamed&show_icons=true" alt="mmohamed" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mmohamed&show_icons=true" alt="mmohamed" /></p>
 
 <p align="center">
 <a href="https://dev.to/mmohamed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mmohamed" height="30" width="30" /></a>
