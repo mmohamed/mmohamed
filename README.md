@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [DevOps with your RPI K8S](https://medium.com/@medinvention/devops-with-your-rpi-k8s-bcbf5d8678b5?source=rss-9c597bc9ffca------2)
+- [Very Simple Mesh Service](https://medium.com/@medinvention/very-simple-mesh-service-8440e164613e?source=rss-9c597bc9ffca------2)
 - [DevOps with your RPI K8S](https://dev.to/mmohamed/devops-with-your-rpi-k8s-o67)
 - [Let's play with K8S...](https://dev.to/mmohamed/let-s-play-with-k8s-4bb0)
-- [How to deploy your own K8S...](https://dev.to/mmohamed/how-to-deploy-your-own-k8s-45m2)
-- [K8S manage his own cluster fan :)](https://dev.to/mmohamed/k8s-manage-his-own-cluster-fan-2e09)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
