@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Gravitee API Management on K8S RPI Cluster (3.4.2)](https://dev.to/mmohamed/gravitee-api-management-on-k8s-rpi-cluster-3-4-2-opl)
 - [DevOps with your RPI K8S](https://medium.com/@medinvention/devops-with-your-rpi-k8s-bcbf5d8678b5?source=rss-9c597bc9ffca------2)
 - [Very Simple Mesh Service](https://medium.com/@medinvention/very-simple-mesh-service-8440e164613e?source=rss-9c597bc9ffca------2)
 - [DevOps with your RPI K8S](https://dev.to/mmohamed/devops-with-your-rpi-k8s-o67)
-- [Let's play with K8S...](https://dev.to/mmohamed/let-s-play-with-k8s-4bb0)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
