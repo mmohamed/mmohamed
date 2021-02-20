@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Kafka & Zookeeper Kubernetes Deployment](https://medium.com/@medinvention/kafka-zookeeper-kubernetes-deployment-8a847335fa99?source=rss-9c597bc9ffca------2)
+- [Vault & Consul Kubernetes Deployment](https://medium.com/@medinvention/vault-consul-kubernetes-deployment-d5b4f47f3a5e?source=rss-9c597bc9ffca------2)
+- [Simple way to secure Kafka & Zookeeper cluster on Kubernetes](https://medium.com/@medinvention/simple-way-to-secure-kafka-zookeeper-cluster-on-kubernetes-ec7c269e4976?source=rss-9c597bc9ffca------2)
 - [Gravitee API Management on K8S RPI Cluster (3.4.2)](https://dev.to/mmohamed/gravitee-api-management-on-k8s-rpi-cluster-3-4-2-opl)
-- [DevOps with your RPI K8S](https://medium.com/@medinvention/devops-with-your-rpi-k8s-bcbf5d8678b5?source=rss-9c597bc9ffca------2)
-- [Very Simple Mesh Service](https://medium.com/@medinvention/very-simple-mesh-service-8440e164613e?source=rss-9c597bc9ffca------2)
-- [DevOps with your RPI K8S](https://dev.to/mmohamed/devops-with-your-rpi-k8s-o67)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
