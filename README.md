@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Kafka & Zookeeper Kubernetes Deployment](https://medium.com/@medinvention/kafka-zookeeper-kubernetes-deployment-8a847335fa99?source=rss-9c597bc9ffca------2)
-- [Vault & Consul Kubernetes Deployment](https://medium.com/@medinvention/vault-consul-kubernetes-deployment-d5b4f47f3a5e?source=rss-9c597bc9ffca------2)
-- [Simple way to secure Kafka & Zookeeper cluster on Kubernetes](https://medium.com/@medinvention/simple-way-to-secure-kafka-zookeeper-cluster-on-kubernetes-ec7c269e4976?source=rss-9c597bc9ffca------2)
+- [Kafka & Zookeeper Kubernetes Deployment](https://medinvention.medium.com/kafka-zookeeper-kubernetes-deployment-8a847335fa99?source=rss-9c597bc9ffca------2)
+- [Vault & Consul Kubernetes Deployment](https://medinvention.medium.com/vault-consul-kubernetes-deployment-d5b4f47f3a5e?source=rss-9c597bc9ffca------2)
+- [Simple way to secure Kafka & Zookeeper cluster on Kubernetes](https://medinvention.medium.com/simple-way-to-secure-kafka-zookeeper-cluster-on-kubernetes-ec7c269e4976?source=rss-9c597bc9ffca------2)
 - [Gravitee API Management on K8S RPI Cluster (3.4.2)](https://dev.to/mmohamed/gravitee-api-management-on-k8s-rpi-cluster-3-4-2-opl)
 <!-- BLOG-POST-LIST:END -->
 
