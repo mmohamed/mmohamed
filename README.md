@@ -9,7 +9,7 @@
 
 - 📝 I regulary write articles on [https://blog.medinvention.dev/](https://blog.medinvention.dev/)
 
-- 📫 How to reach me **medmearouen@gmail.com**
+- 📫 How to reach me **medmarouen@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
